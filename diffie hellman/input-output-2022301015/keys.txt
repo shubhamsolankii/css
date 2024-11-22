@@ -1,0 +1,14 @@
+For sender:
+    Prime number (P): 23
+    Primitive root (G): 5
+    Private key (a): 6
+    Sender Partial Key (A): 8
+    Shared Secret Key: 2
+
+For receiver:
+    Sender Partial Key (A): 8
+    Prime number (P): 23
+    Primitive root (G): 5
+    Private key (b): 15
+    Receiver Partial Key (B): 19
+    Shared Secret Key: 2

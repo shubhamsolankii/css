@@ -1,0 +1,7 @@
+For sender:
+    name: Shubham
+    primes: 47,57
+For receiver:
+    name: Prithvi
+    primes: 57,19
+    address: ws://localhost:4000

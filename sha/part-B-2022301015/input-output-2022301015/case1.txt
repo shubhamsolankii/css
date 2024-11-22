@@ -1,0 +1,17 @@
+PS D:/Shubham/College/SPIT/Semester 7/css/exp/exp5/source-codes-2022301015
+#python case1.py
+
+Message: This is a very very secret message
+Key: randomkey
+Combined payload M || H
+This is a very very secret message#,#14cfb754fe2cb70f57c800d54775c17805340043401a52d9db23c888318a4610fac42826e0c25bb0ce855ae627ee3b62a3d8f92783e67fcf62ef703881f7cb76
+
+Message sent via unsecure medium
+ehvv.u}$y1vru,i hq~ox8~evoso'D41AftnA9Lwe?fpC:jMHcE3>p?8OH5p4ED:9KE0=7A@:5yF2q<rn<7{I8E6?Dk8NB0sdq@<<JGe=f@AlfHteE8Cmo:JHer6pB<eKu8s<@CB7}G7sftB<i~H0@;F=p;{s7C
+
+Decrypted Message at receiver's side
+This is a very very secret message#,#14cfb754fe2cb70f57c800d54775c17805340043401a52d9db23c888318a4610fac42826e0c25bb0ce855ae627ee3b62a3d8f92783e67fcf62ef703881f7cb76
+Computed hash equals sent hash
+Authentication successful and integrity maintained
+
+D:/Shubham/College/SPIT/Semester 7/css/exp/exp5/source-codes-2022301015

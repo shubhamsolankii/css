@@ -1,0 +1,8 @@
+Hello this akshat biniwale, hello aryaman chokhani.
+This is the lab for CSS and we are currently on the 7th experiment of the lab session. Below is a secret message - 
+
+"A Stack is an abstract linear data structure serving as a collection of
+elements that are inserted (push operation) and removed (pop
+operation) according to the Last in First Out (LIFO) approach.
+Insertion and deletion happen on the same end (top) in a Stack. The
+top of the stack is returned using the peek operation."

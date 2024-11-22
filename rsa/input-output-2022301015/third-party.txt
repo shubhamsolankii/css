@@ -1,0 +1,9 @@
+WebSocket server started on ws://localhost:3000
+Public key 2679,3 registered for shubham
+
+Public key 1083,5 registered for prithvi
+
+Public key 1083,5 registered for prithvi
+
+Public key requested for prithvi
+{'shubham': '2679,3', 'prithvi': '1083,5'}

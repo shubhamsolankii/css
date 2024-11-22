@@ -1,0 +1,96 @@
+Key: 12
+Decrypted Text: EKAEP_TTHREETAM
+
+Key: 21
+Decrypted Text: EAKETT_PEERHMMA
+
+Key: 123
+Decrypted Text: EHKRAEEE_PTMATT
+
+Key: 132
+Decrypted Text: EKHEEER_APMTTMA
+
+Key: 213
+Decrypted Text: AREHEKEEMTA_TPM
+
+Key: 231
+Decrypted Text: AEREKEHMET_AMTT
+
+Key: 312
+Decrypted Text: KEEEEH_RAMTMPTA
+
+Key: 321
+Decrypted Text: EEEKARMHE_MTTAT
+
+Key: 1234
+Decrypted Text: EPHTK_RAATEMETE
+
+Key: 1243
+Decrypted Text: EPTHK_ARETMEATM
+
+Key: 1324
+Decrypted Text: EHPTAETMKR_AEET
+
+Key: 1342
+Decrypted Text: EHTPAEMTEEMTKRA
+
+Key: 1423
+Decrypted Text: ETPHEMTEKA_RAMT
+
+Key: 1432
+Decrypted Text: ETHPEMETAMETKAR
+
+Key: 2134
+Decrypted Text: _KRAPEHTTAEMTEE
+
+Key: 2143
+Decrypted Text: _KARPETHTEMETAM
+
+Key: 2314
+Decrypted Text: _RKATEAMPHETTEE
+
+Key: 2341
+Decrypted Text: _RAKTEMATEMEPHT
+
+Key: 2413
+Decrypted Text: _AKRTMEEPTEHTMA
+
+Key: 2431
+Decrypted Text: _ARKTMEETMEAPTH
+
+Key: 3124
+Decrypted Text: EATMHEPTRK_AEET
+
+Key: 3142
+Decrypted Text: EAMTHETPEEMTRKA
+
+Key: 3214
+Decrypted Text: ETAMR_KAHPETETE
+
+Key: 3241
+Decrypted Text: ETMAR_AKETMEHPT
+
+Key: 3412
+Decrypted Text: EMATEMETHTEPRAK
+
+Key: 3421
+Decrypted Text: EMTAEMTERA_KHTP
+
+Key: 4123
+Decrypted Text: METETEPHAK_RMAT
+
+Key: 4132
+Decrypted Text: MEETTEHPMAETAKR
+
+Key: 4213
+Decrypted Text: MTEEA_KRTPEHMTA
+
+Key: 4231
+Decrypted Text: MTEEA_RKMTEATPH
+
+Key: 4312
+Decrypted Text: MEETMEATTHEPARK
+
+Key: 4321
+Decrypted Text: METEMETAAR_KTHP
+

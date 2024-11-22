@@ -1,0 +1,21 @@
+PS D:/Shubham/College/SPIT/Semester 7/css/exp/exp5/source-codes-2022301015 
+# python case3.py
+Message: This is a very very secret message
+Key: randomkey
+Concatenated Message and Key
+This is a very very secret message,randomkey
+
+Hash computed at sender side
+dccadb829f4e84dad292e958d08303801e337964f8b7fd99daafb7a5006dc492bc1b5ac9901ee494d35e0624e682eadba12b4cdafd5a77671ff90dad3ea1aa69
+
+Message sent
+This is a very very secret message#,#dccadb829f4e84dad292e958d08303801e337964f8b7fd99daafb7a5006dc492bc1b5ac9901ee494d35e0624e682eadba12b4cdafd5a77671ff90dad3ea1aa69
+
+Hash computed at receiver's side
+dccadb829f4e84dad292e958d08303801e337964f8b7fd99daafb7a5006dc492bc1b5ac9901ee494d35e0624e682eadba12b4cdafd5a77671ff90dad3ea1aa69
+
+Hash matches
+Message received with integrity intact
+
+D:/Shubham/College/SPIT/Semester 7/css/exp/exp5/source-codes-2022301015
+# 

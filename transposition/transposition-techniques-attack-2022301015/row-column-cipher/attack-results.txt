@@ -1,0 +1,456 @@
+Key: 12
+Decrypted Text: woe_uH_ao
+
+Key: 21
+Decrypted Text: ow_eHua_y
+
+Key: 123
+Decrypted Text: woHerauoy
+
+Key: 132
+Decrypted Text: wHoearuyo
+
+Key: 213
+Decrypted Text: owHreaouy
+
+Key: 231
+Decrypted Text: oHwraeoyu
+
+Key: 312
+Decrypted Text: Hwoaeryuo
+
+Key: 321
+Decrypted Text: Howareyou
+
+Key: 1234
+Decrypted Text: w_oaeo_yu
+
+Key: 1243
+Decrypted Text: w_aoeoy_u
+
+Key: 1324
+Decrypted Text: wo_ae_oyu
+
+Key: 1342
+Decrypted Text: woa_e_you
+
+Key: 1423
+Decrypted Text: wa_oeyo_u
+
+Key: 1432
+Decrypted Text: wao_ey_ou
+
+Key: 2134
+Decrypted Text: _woaoe_yr
+
+Key: 2143
+Decrypted Text: _waooey_r
+
+Key: 2314
+Decrypted Text: _owao_eyr
+
+Key: 2341
+Decrypted Text: _oawo_yer
+
+Key: 2413
+Decrypted Text: _awooye_r
+
+Key: 2431
+Decrypted Text: _aowoy_er
+
+Key: 3124
+Decrypted Text: ow_a_eoyH
+
+Key: 3142
+Decrypted Text: owa__eyoH
+
+Key: 3214
+Decrypted Text: o_wa_oeyH
+
+Key: 3241
+Decrypted Text: o_aw_oyeH
+
+Key: 3412
+Decrypted Text: oaw__yeoH
+
+Key: 3421
+Decrypted Text: oa_w_yoeH
+
+Key: 4123
+Decrypted Text: aw_oyeo__
+
+Key: 4132
+Decrypted Text: awo_ye_o_
+
+Key: 4213
+Decrypted Text: a_woyoe__
+
+Key: 4231
+Decrypted Text: a_owyo_e_
+
+Key: 4312
+Decrypted Text: aow_y_eo_
+
+Key: 4321
+Decrypted Text: ao_wy_oe_
+
+Key: 12345
+Decrypted Text: w_oaeo_yu
+
+Key: 12354
+Decrypted Text: w_oaeo_yu
+
+Key: 12435
+Decrypted Text: w_aoeoy_u
+
+Key: 12453
+Decrypted Text: w_aoeoy_u
+
+Key: 12534
+Decrypted Text: w_oaeo_yu
+
+Key: 12543
+Decrypted Text: w_aoeoy_u
+
+Key: 13245
+Decrypted Text: wo_ae_oyu
+
+Key: 13254
+Decrypted Text: wo_ae_oyu
+
+Key: 13425
+Decrypted Text: woa_e_you
+
+Key: 13452
+Decrypted Text: woa_e_you
+
+Key: 13524
+Decrypted Text: wo_ae_oyu
+
+Key: 13542
+Decrypted Text: woa_e_you
+
+Key: 14235
+Decrypted Text: wa_oeyo_u
+
+Key: 14253
+Decrypted Text: wa_oeyo_u
+
+Key: 14325
+Decrypted Text: wao_ey_ou
+
+Key: 14352
+Decrypted Text: wao_ey_ou
+
+Key: 14523
+Decrypted Text: wa_oeyo_u
+
+Key: 14532
+Decrypted Text: wao_ey_ou
+
+Key: 15234
+Decrypted Text: w_oaeo_yu
+
+Key: 15243
+Decrypted Text: w_aoeoy_u
+
+Key: 15324
+Decrypted Text: wo_ae_oyu
+
+Key: 15342
+Decrypted Text: woa_e_you
+
+Key: 15423
+Decrypted Text: wa_oeyo_u
+
+Key: 15432
+Decrypted Text: wao_ey_ou
+
+Key: 21345
+Decrypted Text: _woaoe_yr
+
+Key: 21354
+Decrypted Text: _woaoe_yr
+
+Key: 21435
+Decrypted Text: _waooey_r
+
+Key: 21453
+Decrypted Text: _waooey_r
+
+Key: 21534
+Decrypted Text: _woaoe_yr
+
+Key: 21543
+Decrypted Text: _waooey_r
+
+Key: 23145
+Decrypted Text: _owao_eyr
+
+Key: 23154
+Decrypted Text: _owao_eyr
+
+Key: 23415
+Decrypted Text: _oawo_yer
+
+Key: 23451
+Decrypted Text: _oawo_yer
+
+Key: 23514
+Decrypted Text: _owao_eyr
+
+Key: 23541
+Decrypted Text: _oawo_yer
+
+Key: 24135
+Decrypted Text: _awooye_r
+
+Key: 24153
+Decrypted Text: _awooye_r
+
+Key: 24315
+Decrypted Text: _aowoy_er
+
+Key: 24351
+Decrypted Text: _aowoy_er
+
+Key: 24513
+Decrypted Text: _awooye_r
+
+Key: 24531
+Decrypted Text: _aowoy_er
+
+Key: 25134
+Decrypted Text: _woaoe_yr
+
+Key: 25143
+Decrypted Text: _waooey_r
+
+Key: 25314
+Decrypted Text: _owao_eyr
+
+Key: 25341
+Decrypted Text: _oawo_yer
+
+Key: 25413
+Decrypted Text: _awooye_r
+
+Key: 25431
+Decrypted Text: _aowoy_er
+
+Key: 31245
+Decrypted Text: ow_a_eoyH
+
+Key: 31254
+Decrypted Text: ow_a_eoyH
+
+Key: 31425
+Decrypted Text: owa__eyoH
+
+Key: 31452
+Decrypted Text: owa__eyoH
+
+Key: 31524
+Decrypted Text: ow_a_eoyH
+
+Key: 31542
+Decrypted Text: owa__eyoH
+
+Key: 32145
+Decrypted Text: o_wa_oeyH
+
+Key: 32154
+Decrypted Text: o_wa_oeyH
+
+Key: 32415
+Decrypted Text: o_aw_oyeH
+
+Key: 32451
+Decrypted Text: o_aw_oyeH
+
+Key: 32514
+Decrypted Text: o_wa_oeyH
+
+Key: 32541
+Decrypted Text: o_aw_oyeH
+
+Key: 34125
+Decrypted Text: oaw__yeoH
+
+Key: 34152
+Decrypted Text: oaw__yeoH
+
+Key: 34215
+Decrypted Text: oa_w_yoeH
+
+Key: 34251
+Decrypted Text: oa_w_yoeH
+
+Key: 34512
+Decrypted Text: oaw__yeoH
+
+Key: 34521
+Decrypted Text: oa_w_yoeH
+
+Key: 35124
+Decrypted Text: ow_a_eoyH
+
+Key: 35142
+Decrypted Text: owa__eyoH
+
+Key: 35214
+Decrypted Text: o_wa_oeyH
+
+Key: 35241
+Decrypted Text: o_aw_oyeH
+
+Key: 35412
+Decrypted Text: oaw__yeoH
+
+Key: 35421
+Decrypted Text: oa_w_yoeH
+
+Key: 41235
+Decrypted Text: aw_oyeo__
+
+Key: 41253
+Decrypted Text: aw_oyeo__
+
+Key: 41325
+Decrypted Text: awo_ye_o_
+
+Key: 41352
+Decrypted Text: awo_ye_o_
+
+Key: 41523
+Decrypted Text: aw_oyeo__
+
+Key: 41532
+Decrypted Text: awo_ye_o_
+
+Key: 42135
+Decrypted Text: a_woyoe__
+
+Key: 42153
+Decrypted Text: a_woyoe__
+
+Key: 42315
+Decrypted Text: a_owyo_e_
+
+Key: 42351
+Decrypted Text: a_owyo_e_
+
+Key: 42513
+Decrypted Text: a_woyoe__
+
+Key: 42531
+Decrypted Text: a_owyo_e_
+
+Key: 43125
+Decrypted Text: aow_y_eo_
+
+Key: 43152
+Decrypted Text: aow_y_eo_
+
+Key: 43215
+Decrypted Text: ao_wy_oe_
+
+Key: 43251
+Decrypted Text: ao_wy_oe_
+
+Key: 43512
+Decrypted Text: aow_y_eo_
+
+Key: 43521
+Decrypted Text: ao_wy_oe_
+
+Key: 45123
+Decrypted Text: aw_oyeo__
+
+Key: 45132
+Decrypted Text: awo_ye_o_
+
+Key: 45213
+Decrypted Text: a_woyoe__
+
+Key: 45231
+Decrypted Text: a_owyo_e_
+
+Key: 45312
+Decrypted Text: aow_y_eo_
+
+Key: 45321
+Decrypted Text: ao_wy_oe_
+
+Key: 51234
+Decrypted Text: w_oaeo_yu
+
+Key: 51243
+Decrypted Text: w_aoeoy_u
+
+Key: 51324
+Decrypted Text: wo_ae_oyu
+
+Key: 51342
+Decrypted Text: woa_e_you
+
+Key: 51423
+Decrypted Text: wa_oeyo_u
+
+Key: 51432
+Decrypted Text: wao_ey_ou
+
+Key: 52134
+Decrypted Text: _woaoe_yr
+
+Key: 52143
+Decrypted Text: _waooey_r
+
+Key: 52314
+Decrypted Text: _owao_eyr
+
+Key: 52341
+Decrypted Text: _oawo_yer
+
+Key: 52413
+Decrypted Text: _awooye_r
+
+Key: 52431
+Decrypted Text: _aowoy_er
+
+Key: 53124
+Decrypted Text: ow_a_eoyH
+
+Key: 53142
+Decrypted Text: owa__eyoH
+
+Key: 53214
+Decrypted Text: o_wa_oeyH
+
+Key: 53241
+Decrypted Text: o_aw_oyeH
+
+Key: 53412
+Decrypted Text: oaw__yeoH
+
+Key: 53421
+Decrypted Text: oa_w_yoeH
+
+Key: 54123
+Decrypted Text: aw_oyeo__
+
+Key: 54132
+Decrypted Text: awo_ye_o_
+
+Key: 54213
+Decrypted Text: a_woyoe__
+
+Key: 54231
+Decrypted Text: a_owyo_e_
+
+Key: 54312
+Decrypted Text: aow_y_eo_
+
+Key: 54321
+Decrypted Text: ao_wy_oe_
+
